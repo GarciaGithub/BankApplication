@@ -1,0 +1,14 @@
+03-04-2021 07:07:48 {INFO} [com.bank.ui.UserLoginMenu] - User login with succes : null
+03-04-2021 07:10:38 {INFO} [com.bank.ui.CustomerMenu] - darelle Request a new account
+03-04-2021 07:20:04 {INFO} [com.bank.ui.UserLoginMenu] - nulllogin with succes
+03-04-2021 08:42:52 {INFO} [com.bank.ui.UserLoginMenu] - nulllogin with succes
+03-04-2021 08:43:31 {INFO} [com.bank.ui.CustomerMenu] - yvon Request a new account
+03-04-2021 08:44:03 {INFO} [com.bank.ui.CustomerMenu] - yvon View the balance of a specific account
+03-04-2021 08:44:48 {INFO} [com.bank.ui.CustomerMenu] - yvon did a doposit for specific account
+03-04-2021 08:45:24 {INFO} [com.bank.ui.CustomerMenu] - yvon did a withdrawal for specific account
+03-04-2021 08:46:11 {INFO} [com.bank.ui.CustomerMenu] - yvon did a withdrawal for specific account
+03-04-2021 08:46:59 {ERROR} [com.bank.ui.CustomerMenu] - yvon failed to Tranfer amount  with succes
+03-04-2021 08:47:29 {ERROR} [com.bank.ui.CustomerMenu] - yvon failed to Tranfer amount  with succes
+03-04-2021 08:48:12 {ERROR} [com.bank.ui.CustomerMenu] - yvon failed to Tranfer amount  with succes
+03-04-2021 08:48:56 {ERROR} [com.bank.ui.CustomerMenu] - yvon failed to Tranfer amount  with succes
+03-04-2021 08:49:36 {INFO} [com.bank.ui.UserLoginMenu] - nulllogin with succes
